@@ -1,4 +1,4 @@
-# Embrace Community App
+# Create Tauri Stack
 
 A modern cross-platform application built with Tauri v2 and React, featuring both desktop and mobile capabilities.
 
